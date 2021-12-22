@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabusdev
+- 👀 I’m interested in learning a lot about programing, wanna be a full stack developer and i would like to try AI
+- 🌱 I’m currently learning git, docker, .Net and Js
+- 💞️ I’m looking to collaborate on any project when i got some free time
+- 📫 How to reach me: mail me at gabusdev@outlook.com
