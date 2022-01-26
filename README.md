@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabusdev
 - 👀 I’m interested in learning a lot about programing. I'ld like to get into Data Science and also be a full stack developer
-- 🌱 I’m currently learning docker, .Net and AI
+- 🌱 I’m currently learning AI and Next.Js
 - 💞️ I’m looking to work on any project that gives me some Exp
 - 📫 How to reach me: mail me at gabusdev@outlook.com
 
