@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabusdev
-- 👀 I’m interested in learning a lot about programing. I'ld like to get into Data Science and also be a full stack developer
-- 🌱 I’m currently learning AI and Next.Js
-- 💞️ I’m looking to work on any project that gives me some Exp
+- 👀 I’m passionate about expanding my programming knowledge and continuously honing my skills.
+- 🌱 Currently working as a Full Stack Developer, with a focus on Vue.js and Node.js.
+- 💡 Open to collaborating on innovative and impactful side projects!
 - 📫 How to reach me: mail me at gabusdev@outlook.com
 
 <!---
